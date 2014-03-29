@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: yinyinbigdata's blog
+tagline: 
 ---
 {% include JB/setup %}
 
 
-    
 # My Blog
 
 

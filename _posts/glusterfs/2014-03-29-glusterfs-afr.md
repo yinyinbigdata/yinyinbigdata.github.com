@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Glusterfs AFR代码分析"
 description: ""
 category: 
